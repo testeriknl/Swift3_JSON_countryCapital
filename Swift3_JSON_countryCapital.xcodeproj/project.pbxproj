@@ -12,10 +12,11 @@
 		622585C71F59C17600A4E592 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 622585C51F59C17600A4E592 /* Main.storyboard */; };
 		622585C91F59C17800A4E592 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 622585C81F59C17800A4E592 /* Assets.xcassets */; };
 		622585CC1F59C17900A4E592 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 622585CA1F59C17900A4E592 /* LaunchScreen.storyboard */; };
+		622DCD131F607FB50048F62C /* Swift3_JSON_countryCapital.app in Resources */ = {isa = PBXBuildFile; fileRef = 622585BE1F59C17100A4E592 /* Swift3_JSON_countryCapital.app */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		622585BE1F59C17100A4E592 /* countryCapital.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = countryCapital.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		622585BE1F59C17100A4E592 /* Swift3_JSON_countryCapital.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Swift3_JSON_countryCapital.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		622585C11F59C17300A4E592 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		622585C31F59C17300A4E592 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		622585C61F59C17600A4E592 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
@@ -46,7 +47,7 @@
 		622585BF1F59C17100A4E592 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				622585BE1F59C17100A4E592 /* countryCapital.app */,
+				622585BE1F59C17100A4E592 /* Swift3_JSON_countryCapital.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -67,9 +68,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		622585BD1F59C17100A4E592 /* countryCapital */ = {
+		622585BD1F59C17100A4E592 /* Swift3_JSON_countryCapital */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 622585D01F59C17A00A4E592 /* Build configuration list for PBXNativeTarget "countryCapital" */;
+			buildConfigurationList = 622585D01F59C17A00A4E592 /* Build configuration list for PBXNativeTarget "Swift3_JSON_countryCapital" */;
 			buildPhases = (
 				622585BA1F59C17100A4E592 /* Sources */,
 				622585BB1F59C17100A4E592 /* Frameworks */,
@@ -79,9 +80,9 @@
 			);
 			dependencies = (
 			);
-			name = countryCapital;
+			name = Swift3_JSON_countryCapital;
 			productName = countryCapital;
-			productReference = 622585BE1F59C17100A4E592 /* countryCapital.app */;
+			productReference = 622585BE1F59C17100A4E592 /* Swift3_JSON_countryCapital.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -101,7 +102,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 622585B91F59C17000A4E592 /* Build configuration list for PBXProject "countryCapital" */;
+			buildConfigurationList = 622585B91F59C17000A4E592 /* Build configuration list for PBXProject "Swift3_JSON_countryCapital" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
@@ -114,7 +115,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				622585BD1F59C17100A4E592 /* countryCapital */,
+				622585BD1F59C17100A4E592 /* Swift3_JSON_countryCapital */,
 			);
 		};
 /* End PBXProject section */
@@ -127,6 +128,7 @@
 				622585CC1F59C17900A4E592 /* LaunchScreen.storyboard in Resources */,
 				622585C91F59C17800A4E592 /* Assets.xcassets in Resources */,
 				622585C71F59C17600A4E592 /* Main.storyboard in Resources */,
+				622DCD131F607FB50048F62C /* Swift3_JSON_countryCapital.app in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -274,10 +276,11 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = 2BUA49FE98;
 				INFOPLIST_FILE = countryCapital/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = nl.testerik.countryCapital;
+				PRODUCT_BUNDLE_IDENTIFIER = "nl.testerik.-Swift3-JSON-countryCapital";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE_SPECIFIER = "";
 				SWIFT_VERSION = 3.0;
@@ -289,10 +292,11 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = 2BUA49FE98;
 				INFOPLIST_FILE = countryCapital/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = nl.testerik.countryCapital;
+				PRODUCT_BUNDLE_IDENTIFIER = "nl.testerik.-Swift3-JSON-countryCapital";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE_SPECIFIER = "";
 				SWIFT_VERSION = 3.0;
@@ -302,7 +306,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		622585B91F59C17000A4E592 /* Build configuration list for PBXProject "countryCapital" */ = {
+		622585B91F59C17000A4E592 /* Build configuration list for PBXProject "Swift3_JSON_countryCapital" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				622585CE1F59C17A00A4E592 /* Debug */,
@@ -311,7 +315,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		622585D01F59C17A00A4E592 /* Build configuration list for PBXNativeTarget "countryCapital" */ = {
+		622585D01F59C17A00A4E592 /* Build configuration list for PBXNativeTarget "Swift3_JSON_countryCapital" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				622585D11F59C17A00A4E592 /* Debug */,

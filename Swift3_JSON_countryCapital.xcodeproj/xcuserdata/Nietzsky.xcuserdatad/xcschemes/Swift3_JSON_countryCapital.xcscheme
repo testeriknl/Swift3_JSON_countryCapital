@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "622585BD1F59C17100A4E592"
-               BuildableName = "countryCapital.app"
-               BlueprintName = "countryCapital"
-               ReferencedContainer = "container:countryCapital.xcodeproj">
+               BuildableName = "Swift3_JSON_countryCapital.app"
+               BlueprintName = "Swift3_JSON_countryCapital"
+               ReferencedContainer = "container:Swift3_JSON_countryCapital.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -34,9 +34,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "622585BD1F59C17100A4E592"
-            BuildableName = "countryCapital.app"
-            BlueprintName = "countryCapital"
-            ReferencedContainer = "container:countryCapital.xcodeproj">
+            BuildableName = "Swift3_JSON_countryCapital.app"
+            BlueprintName = "Swift3_JSON_countryCapital"
+            ReferencedContainer = "container:Swift3_JSON_countryCapital.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -58,9 +58,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "622585BD1F59C17100A4E592"
-            BuildableName = "countryCapital.app"
-            BlueprintName = "countryCapital"
-            ReferencedContainer = "container:countryCapital.xcodeproj">
+            BuildableName = "Swift3_JSON_countryCapital.app"
+            BlueprintName = "Swift3_JSON_countryCapital"
+            ReferencedContainer = "container:Swift3_JSON_countryCapital.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -77,9 +77,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "622585BD1F59C17100A4E592"
-            BuildableName = "countryCapital.app"
-            BlueprintName = "countryCapital"
-            ReferencedContainer = "container:countryCapital.xcodeproj">
+            BuildableName = "Swift3_JSON_countryCapital.app"
+            BlueprintName = "Swift3_JSON_countryCapital"
+            ReferencedContainer = "container:Swift3_JSON_countryCapital.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
