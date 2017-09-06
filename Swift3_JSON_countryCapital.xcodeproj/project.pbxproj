@@ -12,11 +12,10 @@
 		622585C71F59C17600A4E592 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 622585C51F59C17600A4E592 /* Main.storyboard */; };
 		622585C91F59C17800A4E592 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 622585C81F59C17800A4E592 /* Assets.xcassets */; };
 		622585CC1F59C17900A4E592 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 622585CA1F59C17900A4E592 /* LaunchScreen.storyboard */; };
-		622DCD131F607FB50048F62C /* Swift3_JSON_countryCapital.app in Resources */ = {isa = PBXBuildFile; fileRef = 622585BE1F59C17100A4E592 /* Swift3_JSON_countryCapital.app */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		622585BE1F59C17100A4E592 /* Swift3_JSON_countryCapital.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Swift3_JSON_countryCapital.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		622585BE1F59C17100A4E592 /* Swift3_JSON_countryCapital.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; name = Swift3_JSON_countryCapital.app; path = "/Users/Nietzsky/Testerik.DEV/Swift3_JSON_countryCapital/build/Debug-iphoneos/Swift3_JSON_countryCapital.app"; sourceTree = "<absolute>"; };
 		622585C11F59C17300A4E592 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		622585C31F59C17300A4E592 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		622585C61F59C17600A4E592 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
@@ -40,16 +39,7 @@
 			isa = PBXGroup;
 			children = (
 				622585C01F59C17200A4E592 /* countryCapital */,
-				622585BF1F59C17100A4E592 /* Products */,
 			);
-			sourceTree = "<group>";
-		};
-		622585BF1F59C17100A4E592 /* Products */ = {
-			isa = PBXGroup;
-			children = (
-				622585BE1F59C17100A4E592 /* Swift3_JSON_countryCapital.app */,
-			);
-			name = Products;
 			sourceTree = "<group>";
 		};
 		622585C01F59C17200A4E592 /* countryCapital */ = {
@@ -111,7 +101,7 @@
 				Base,
 			);
 			mainGroup = 622585B51F59C17000A4E592;
-			productRefGroup = 622585BF1F59C17100A4E592 /* Products */;
+			productRefGroup = 622585B51F59C17000A4E592;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
@@ -128,7 +118,6 @@
 				622585CC1F59C17900A4E592 /* LaunchScreen.storyboard in Resources */,
 				622585C91F59C17800A4E592 /* Assets.xcassets in Resources */,
 				622585C71F59C17600A4E592 /* Main.storyboard in Resources */,
-				622DCD131F607FB50048F62C /* Swift3_JSON_countryCapital.app in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
